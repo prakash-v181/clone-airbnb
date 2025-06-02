@@ -6,7 +6,8 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "build": "[my-framework] build --output public"
   },
 
   
