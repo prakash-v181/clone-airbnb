@@ -1,10 +1,10 @@
-
-
-
 {
   "name": "majorproject",
   "version": "1.0.0",
   "main": "app.js",
+  "engines": {
+    "node": "22.12.0"
+  },
   "scripts": {
     "start": "nodemon app.js"
   },
