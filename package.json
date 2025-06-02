@@ -1,3 +1,6 @@
+
+
+
 {
   "name": "majorproject",
   "version": "1.0.0",
@@ -5,6 +8,8 @@
   "scripts": {
     "start": "nodemon app.js"
   },
+
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
