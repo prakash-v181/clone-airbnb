@@ -1,16 +1,19 @@
+
 {
+  
   "name": "majorproject",
   "version": "1.0.0",
   "main": "app.js",
   "engines": {
     "node": "22.x"
+    
   },
   "scripts": {
     "start": "nodemon app.js",
     "build": "[my-framework] build --output public"
+    
   },
 
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -36,5 +39,8 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0",
     "react-facebook-login": "^4.1.1"
+  
   }
 }
+
+  
